@@ -1,4 +1,4 @@
-# Super Contador2
+# Super Contador
 
 ## Descrição
 O algoritmo "Super Contador2" é um programa simples que conta de 1 a 10 ou de 10 a 1, dependendo da escolha do usuário. Ele apresenta um menu interativo que permite ao usuário selecionar a opção desejada.
